@@ -1,0 +1,5 @@
+c:\labs\App.API.TaxaDeJuros\Dominio.Servicos\bin\Release\netcoreapp3.1\publish\Dominio.Servicos.dll
+c:\labs\App.API.TaxaDeJuros\Dominio.Servicos\bin\Release\netcoreapp3.1\publish\Dominio.Servicos.deps.json
+c:\labs\App.API.TaxaDeJuros\Dominio.Servicos\bin\Release\netcoreapp3.1\publish\Dominio.Servicos.pdb
+c:\labs\App.API.TaxaDeJuros\Dominio.Servicos\bin\Release\netcoreapp3.1\publish\Interfaces.dll
+c:\labs\App.API.TaxaDeJuros\Dominio.Servicos\bin\Release\netcoreapp3.1\publish\Interfaces.pdb

@@ -1,0 +1,9 @@
+C:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\Interfaces.deps.json
+C:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\Interfaces.dll
+C:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\Interfaces.pdb
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.dll
+C:\labs\App.API.TaxaDeJuros\Interfaces\obj\Release\netcoreapp3.1\Interfaces.pdb

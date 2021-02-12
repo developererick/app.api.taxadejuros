@@ -1,0 +1,14 @@
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Aplicacao.Servicos.deps.json
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Aplicacao.Servicos.dll
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Aplicacao.Servicos.pdb
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Dominio.Servicos.dll
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Interfaces.dll
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Dominio.Servicos.pdb
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\bin\Release\netcoreapp3.1\Interfaces.pdb
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.csprojAssemblyReference.cache
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.AssemblyInfoInputs.cache
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.AssemblyInfo.cs
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.csproj.CoreCompileInputs.cache
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.csproj.CopyComplete
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.dll
+C:\labs\App.API.TaxaDeJuros\Aplicacao.Servicos\obj\Release\netcoreapp3.1\Aplicacao.Servicos.pdb

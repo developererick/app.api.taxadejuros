@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "877HgVAdpDtGwmyyluqYeXwNKSk5YXp7SUZfcKwEl3u2vvfWJCXFY8aySAhRahMMAS0O8AKaPW/yiVO8UZG3eA==",
+  "success": true,
+  "projectFilePath": "C:\\labs\\App.API.TaxaDeJuros\\Infraestrutura.IoC\\Infraestrutura.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

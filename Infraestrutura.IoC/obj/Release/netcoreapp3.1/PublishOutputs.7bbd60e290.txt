@@ -1,0 +1,10 @@
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Infraestrutura.IoC.dll
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Infraestrutura.IoC.deps.json
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Infraestrutura.IoC.pdb
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Aplicacao.Servicos.dll
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Dominio.Servicos.dll
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Interfaces.dll
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Aplicacao.Servicos.pdb
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Dominio.Servicos.pdb
+c:\labs\App.API.TaxaDeJuros\Infraestrutura.IoC\bin\Release\netcoreapp3.1\publish\Interfaces.pdb

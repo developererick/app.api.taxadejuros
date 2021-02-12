@@ -1,0 +1,3 @@
+c:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\publish\Interfaces.dll
+c:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\publish\Interfaces.deps.json
+c:\labs\App.API.TaxaDeJuros\Interfaces\bin\Release\netcoreapp3.1\publish\Interfaces.pdb
